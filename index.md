@@ -2,7 +2,7 @@
 
 ## What is Septagon
 
-[Septagon|セプタゴン](https://7gon.net/)
+[Septagon(セプタゴン)](https://7gon.net/)
 
 ## What is Septagon Project
 
