@@ -15,6 +15,10 @@ Septagon Projectは適当に開発して、公開するだけのプロジェク�
 
 ## Developing Project
 
+[Zeroch Sharp](https://github.com/MysteryJump/zerochsharp/)
+
+## Archived Project
+
 [Anchorage (Server Side)](https://github.com/MysteryJump/Anchorage/)
 
 [Anchorage (Client Side)](https://github.com/MysteryJump/anchorage-client/)
